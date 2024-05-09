@@ -30,6 +30,7 @@ p{
     width: 100%;
 }
 
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(rgb(146, 39, 15), pink);
@@ -40,24 +41,52 @@ p{
 }
 
 section {
-    
     height: 600px;
 }
 
-.dream-area {
+.dream-area{
     width: 40%;
-    float:right;
-    margin-right: 5%;
-    margin-left: 2.5%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2.5%;
 }
 .dream-area img{
     width: 100%;
 }
-.Dream-button{
-    text-decoration: none;
-    background-image: linear-gradient(rgb(146, 39, 15), pink);
-    color: white;
-    background-color: brown;
-    padding: 10px 20px;
-    border-radius: 5px;
+.single-experience{
+   box-shadow: 10px 10px 40px;
+   border-radius: 10px;
+   height: 50%;
+}
+.Conclusion{
+    background-image: url("Images/personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.introduction {
+    background-image: url("Images/personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:top;
+}
+.middle{
+    background-image: url("Images/personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:top;
+}
+#border{
+    border-left: 10px solid;
+    border-color:brown;
+    border-bottom-color: blanchedalmond;
+    border-left-style: double;
+    color:rgb(24, 8, 7)
+}
+#border-web{
+    border-left: 10px solid;
+    border-color:rgb(20, 62, 9);
+    border-bottom-color: blanchedalmond;
+    border-left-style: double;
+    color:rgb(24, 8, 7)
+}
+}
+
 }
