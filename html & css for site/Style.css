@@ -1,11 +1,63 @@
 .poetsen-one-regular {
-        font-family: "Poetsen One", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-    }
-h1{
-    font-size: 50px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
-.name-highlight{
+
+h1 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+.name-highlight {
     color: coral;
+}
+p{
+    color: rgb(12, 65, 67);
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2.5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(146, 39, 15), pink);
+    color: white;
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+section {
+    
+    height: 600px;
+}
+
+.dream-area {
+    width: 40%;
+    float:right;
+    margin-right: 5%;
+    margin-left: 2.5%;
+}
+.dream-area img{
+    width: 100%;
+}
+.Dream-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(146, 39, 15), pink);
+    color: white;
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
