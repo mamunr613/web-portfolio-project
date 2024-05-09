@@ -87,6 +87,7 @@ section {
     border-left-style: double;
     color:rgb(24, 8, 7)
 }
-}
-
+footer p{
+    text-align: center;
+    line-height: 400px;
 }
